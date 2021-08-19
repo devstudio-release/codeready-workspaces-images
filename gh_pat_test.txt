@@ -1,0 +1,1 @@
+https://TOKEN:x-oauth-basic@github.com/devstudio-release/codeready-workspaces
